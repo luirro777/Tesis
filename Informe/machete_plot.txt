@@ -1,0 +1,2 @@
+gnuplot> plot "lookup.txt" using 1:2 title 'LLU' with lines , "lookup.txt" using 1:3 title 'UTL' with lines
+
